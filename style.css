@@ -1,0 +1,61 @@
+
+.wrapper img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 5px solid black;
+    margin: 20px;
+    
+}
+
+
+.wrapper {
+    display: flex;
+}
+
+
+.education-section{
+border-top: 4px solid black;
+border-bottom: 10px solid black;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+.information-detalied {
+    padding-left: 60px;
+}
+
+.fw-bold{
+    font-weight: bold;
+}
+
+h2 {
+    color: blueviolet;
+    padding-left: 10px;
+    
+}
+
+.information-main {
+    font-weight: bolder;
+    color: brown;
+    padding-left: 20px;
+}
+ 
+.wrapper ul {
+    list-style: none;
+    padding-left: 20px;
+    padding-top: 50px;
+    font-size: 20px;
+  
+    
+}
+
+main {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    font-family: 'Peralta', cursive;
+font-family: 'Roboto', sans-serif;
+}
+
